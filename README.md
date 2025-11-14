@@ -2,9 +2,11 @@
 
 # Hello World! 你好，世界！
 **我是[TNTXZ](https://github.com/TNTXZ "TNTXZ")，一个猎奇的学牲党。**
+
 **I am [TNTXZ](https://github.com/TNTXZ "TNTXZ"),a mystic student.**
 
 **心中总是充满了对世界的好奇 :)**
+
 **My heart is always filled with curiosity about the world. :)**
 
 ------------
@@ -17,6 +19,7 @@
 
 ### 这是我&nbsp;&nbsp;&nbsp;It's Me
 B站 - [https://space.bilibili.com/1515387402](https://space.bilibili.com/1515387402) |
+
 X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_)
 
 ------------
