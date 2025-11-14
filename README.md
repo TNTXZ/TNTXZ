@@ -1,4 +1,4 @@
-[![TNTXZ](https://github.com/TNTXZ "TNTXZ")](https://avatars.githubusercontent.com/u/119731745?s=96&v=4)
+[![TNTXZ](https://github.com/TNTXZ "TNTXZ")](Avatar.jpg)
 # Hello World! 你好，世界！
 **我是[TNTXZ](https://github.com/TNTXZ "TNTXZ")，一个猎奇的学牲党。**
 **I am [TNTXZ](https://github.com/TNTXZ "TNTXZ"),a mystic student.**
