@@ -1,16 +1,26 @@
-## Hi there 👋
+[![TNTXZ](https://github.com/TNTXZ "TNTXZ")](https://raw.githubusercontent.com/TNTXZ/TNTXZ/refs/heads/main/Avatar.jpg)
+# Hello World! 你好，世界！
+**我是[TNTXZ](https://github.com/TNTXZ "TNTXZ")，一个猎奇的学牲党。**
+**I am [TNTXZ](https://github.com/TNTXZ "TNTXZ"),a mystic student.**
 
-<!--
-**TNTXZ/TNTXZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**心中总是充满了对世界的好奇 :)**
+**My heart is always filled with curiosity about the world. :)**
 
-Here are some ideas to get you started:
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 我的精神状态 ~~并不太正常~~ My State
+[![RhoPaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=TNTXZ&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTXZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+------------
+
+### 这是我&nbsp;&nbsp;&nbsp;It's Me
+B站 - [https://space.bilibili.com/1515387402](https://space.bilibili.com/1515387402) |
+X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_)
+
+------------
+
+### 自我介绍 Self-introduction
+从这个自述你也能看出我的~~猎奇~~（bushi），我热爱coding，既搞软件，也搞硬件，会~~Chinese、English~~ Python、C++、C#、Java、JS、HTML、CSS……（~~只要会基础就算，对吧~~），What Can I Say？Man？
+这便是我。
+# Bye! 海内存知己，天涯若比邻
