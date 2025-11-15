@@ -27,7 +27,7 @@
 ### 这是我&nbsp;&nbsp;&nbsp;It's Me
 B站 - [https://space.bilibili.com/1515387402](https://space.bilibili.com/1515387402) |
 
-X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_)
+X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_) |
 
 ------------
 
