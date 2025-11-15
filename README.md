@@ -38,7 +38,7 @@ X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_)
 
 <h1 align="center">
   <a href="https://ahao.ah.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=海内存知己，天涯若比邻.;console.log("Bye!");print("Bye!");cout << "Bye!";System.out.print("Bye!")">
+    <img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=海内存知己，天涯若比邻.;console.log("Bye!");print("Bye!");cout << "Bye!";System.out.print("Bye!")'>
   </a>
 </h1>
 
