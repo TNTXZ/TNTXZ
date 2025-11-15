@@ -38,7 +38,7 @@ X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_)
 
 <h1 align="center">
   <a href="https://github.com/TNTXZ">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FA9A&lines=海内存知己，天涯若比邻.;console.log(%22Bye!%22);print(%22Bye!%22);cout << %22Bye!%22">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FA9A&lines=海内存知己，天涯若比邻.;console.log(%22Bye!%22);print(%22Bye!%22)">
   </a>
 </h1>
 
