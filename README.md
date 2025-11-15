@@ -25,6 +25,6 @@ X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_)
 ------------
 
 ### 自我介绍 Self-introduction
-从这个自述你也能看出我的~~猎奇~~（bushi），我热爱coding，既搞软件，也搞硬件，会~~Chinese、English~~ Python、C++、C#、Java、JS、HTML、CSS……（~~只要会基础就算，对吧~~），What Can I Say？Man？
+从这个自述你也能看出我的~~猎奇~~（bushi），我热爱coding，既搞软件，也搞硬件（软硬兼施），会~~Chinese、English~~ Python、C++、C#、Java、JS、HTML、CSS……（~~只要会基础就算，对吧~~），What Can I Say？Man？
 这便是我。
 # Bye! 海内存知己，天涯若比邻
