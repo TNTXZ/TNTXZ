@@ -1,4 +1,4 @@
-![TNTXZ](https://github.com/user-attachments/assets/9929dd8c-9a6e-4a87-8eff-343b798c8784)
+![TNTXZ](https://image.starsfire.top/Avatar.jpg)
 
 # Hello World! 你好，世界！
 **我是[TNTXZ](https://github.com/TNTXZ "TNTXZ")，一个猎奇的学牲党。**
