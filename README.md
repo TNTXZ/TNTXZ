@@ -21,6 +21,7 @@
   <a href="https://space.bilibili.com/1515387402"><img src="https://stats.justsong.cn/api/bilibili/?id=1515387402"/></a>
   <a href="https://blog.csdn.net/TNTXZ666?type=blog"><img src="https://stats.justsong.cn/api/csdn?id=TNTXZ666"/></a>
 </div>
+
 ------------
 
 ### 这是我&nbsp;&nbsp;&nbsp;It's Me
@@ -38,7 +39,7 @@ X - [https://x.com/_TNTXZ_](https://x.com/_TNTXZ_)
 
 <h1 align="center">
   <a href="https://github.com/TNTXZ">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FA9A&lines=海内存知己，天涯若比邻.;console.log(%22Bye!%22);print(%22Bye!%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=00FA9A&center=true&vCenter=true&width=435&lines=%E6%B5%B7%E5%86%85%E5%AD%98%E7%9F%A5%E5%B7%B1%EF%BC%8C%E5%A4%A9%E6%B6%AF%E8%8B%A5%E6%AF%94%E9%82%BB%EF%BC%81;console.log(%22Bye!%22);print(%22Bye!%22)" alt="Typing SVG" />
   </a>
 </h1>
 
